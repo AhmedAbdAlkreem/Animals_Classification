@@ -8,7 +8,7 @@ To make classification problem can train alot of data using CNN or updata of CNN
 use pretrained model such as MobileNet and ResNet in this repository we try to compare between most of model that i talk about
 to know what is the best model to this problem.
 
-# Can to show what is the part of data that make you take decision? and Why if yes?
+# Can show what is the part of data that make you take decision? and Why if yes?
 Yes, can explain what is the specific part of the image that make the model take this decision that like Saliency Map OR Heatmap
 and i am useing both of them in this repositoty to explain why choose cat, dog or wild animals.
 

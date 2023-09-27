@@ -22,4 +22,4 @@ and i am useing both of them in this repositoty to explain why choose cat, dog o
 7) Make Saliency Map to know the reason of take decision to all Models.
 8) Make Heatmap to show the defference between models dependent in accuracy of model.
 
-# In the last, I hope that i repository can helpfully to you that's it.
+# In the last, I hope that my repository can be helpfully to you that's it.
